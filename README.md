@@ -47,7 +47,7 @@ The company collected the data on individuals who purchased a treadmill from the
 
 2. Non-Graphical Analysis: Value counts and unique attributes
 
-3. Visual Analysis - Univariate & Bivariate (30 Points)
+3. Visual Analysis - Univariate & Bivariate
  
    1. For continuous variable(s): Distplot, countplot, histogram for univariate analysis
  
