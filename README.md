@@ -1,4 +1,4 @@
-![Aerofit Banner] (https://github.com/SUMIT2925/Aerofit---Descriptive-Statistics-Probability-Using-Python/blob/main/Aerofit-Website-Banners-1-imresizer.png)
+![Aerofit Banner](https://github.com/SUMIT2925/Aerofit---Descriptive-Statistics-Probability-Using-Python/blob/main/Aerofit-Website-Banners-1-imresizer.png?raw=true)
 # Business Case On Aerofit - Descriptive Statistics & Probability Using Python 
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
